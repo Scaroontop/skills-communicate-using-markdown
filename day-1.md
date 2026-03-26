@@ -1,8 +1,12 @@
 # Daily Learning
+
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
+
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
@@ -31,4 +35,8 @@ git clone https://github.com/skills/communicate-using-markdown
 ```js
 var myVar = "Hello, world!";
 ```
-
+![Mona the Octocat](myrepo/original.png)
+![Mona the Octocat](https://octodex.github.com/images/original.png)
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
